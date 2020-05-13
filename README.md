@@ -18,6 +18,8 @@ used by next called class
 
 4. YMatrix - This class will calculate the line admittances and then add them upp to get the total Y-Matrix.
 
-When the Y-Matrix is calculated it's presented in a table. 
+When the Y-Matrix is calculated it's presented in a table.
+
+ 
 
  
