@@ -6,7 +6,8 @@ import java.util.ArrayList;
  * This class will decide the topogoly of the grid with the help of the classes:
  * ConnectivityNodeGroup (cNG) - Decides the which connectivitys nodes that belong to the same group (Decides the number of nodes in the Grid)
  * PowerTransGroup (pTGL) - Pairs the PowerTransformer and PowerTranfsformerEnd, and add them to which cNG belong to.
- * ACLineSegments (acL) - Gathers the information from the ACLines and 
+ * ACLineSegments (acL) - Gathers the information from the ACLines and sorts them to the corresponding cNG.
+ * 
  */
 
 public class Topology {
